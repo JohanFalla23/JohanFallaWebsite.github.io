@@ -1,0 +1,414 @@
+@charset "utf-8";
+*{
+	align-items: center;
+ 	align-content: center;
+	text-align: center;
+	vertical-align: center;
+	object-position: center;
+}
+
+
+#LOGO{
+	width: 20%;
+	margin-top: 8%;
+	margin-bottom: 2%;
+}
+
+#Title{
+	font-weight: 400;
+	margin-top: 2%;
+	margin-bottom: 1%;
+	text-align:center;
+	
+}
+button{
+	margin-left: 1%;
+	margin-right: 1%;
+	background-color: #612768;
+	color:white;
+	border-radius: 15px;
+	border-bottom-width: thin;
+	cursor: pointer;
+	border: none;
+	padding: 5px 15px;
+}
+
+button:hover {
+	width: auto;
+	margin-left: 1%;
+	margin-right: 1%;
+	background-color: #993EA4;
+	color:white;
+	border-radius: 15px;
+	border-bottom-width: thin;
+	cursor: pointer;
+	border: none;
+	padding: 5px 15px;
+}
+
+button:active {
+	margin-left: 1%;
+	margin-right: 1%;
+	background-color: #FCE2FF;
+	color:black;
+	border-radius: 15px;
+	border-bottom-width: thin;
+	cursor: pointer;
+	border: #E400FF;
+	padding: 5px 15px;
+}
+
+#spacebaar{
+	text-align: center;
+	width: 50%;
+	padding-top: 2%;
+	border-radius: 30%;
+}
+#Fbicon, #Bhicon, #Whicon{
+	width: 8%;
+	padding: 2%;
+}
+
+#footerpa{
+	font-size: 10px;
+}
+@media(max-width: 575px){
+	#LOGO{
+	width: 50%;
+	margin-top: 8%;
+	margin-bottom: 2%;
+}
+
+#Title{
+	font-weight: 400;
+	margin-top: 2%;
+	margin-bottom: 1%;
+	text-align:center;
+	
+}
+button{
+	margin-left: 1%;
+	margin-right: 1%;
+	background-color: #612768;
+	color:white;
+	border-radius: 15px;
+	border-bottom-width: thin;
+	cursor: pointer;
+	border: none;
+	padding: 5px 15px;
+}
+
+button:hover {
+	width: auto;
+	margin-left: 1%;
+	margin-right: 1%;
+	background-color: #993EA4;
+	color:white;
+	border-radius: 15px;
+	border-bottom-width: thin;
+	cursor: pointer;
+	border: none;
+	padding: 5px 15px;
+}
+
+button:active {
+	margin-left: 1%;
+	margin-right: 1%;
+	background-color: #FCE2FF;
+	color:black;
+	border-radius: 15px;
+	border-bottom-width: thin;
+	cursor: pointer;
+	border: #E400FF;
+	padding: 5px 15px;
+}
+
+#spacebaar{
+	text-align: center;
+	width: 68%;
+	padding-top: 2%;
+	border-radius: 30%;
+}
+#Fbicon, #Bhicon, #Whicon{
+	width: 22%;
+	padding: 4%;
+}
+
+#footerpa{
+	font-size: 10px;
+}
+}
+
+@media(min-width: 576px) and (max-width:767px){
+#LOGO{
+	width: 30%;
+	margin-top: 8%;
+	margin-bottom: 2%;
+}
+
+#Title{
+	font-weight: 400;
+	margin-top: 2%;
+	margin-bottom: 1%;
+	text-align:center;
+	
+}
+button{
+	margin-left: 1%;
+	margin-right: 1%;
+	background-color: #612768;
+	color:white;
+	border-radius: 15px;
+	border-bottom-width: thin;
+	cursor: pointer;
+	border: none;
+	padding: 5px 15px;
+}
+
+button:hover {
+	width: auto;
+	margin-left: 1%;
+	margin-right: 1%;
+	background-color: #993EA4;
+	color:white;
+	border-radius: 15px;
+	border-bottom-width: thin;
+	cursor: pointer;
+	border: none;
+	padding: 5px 15px;
+}
+
+button:active {
+	margin-left: 1%;
+	margin-right: 1%;
+	background-color: #FCE2FF;
+	color:black;
+	border-radius: 15px;
+	border-bottom-width: thin;
+	cursor: pointer;
+	border: #E400FF;
+	padding: 5px 15px;
+}
+
+#spacebaar{
+	text-align: center;
+	width: 50%;
+	padding-top: 2%;
+	border-radius: 30%;
+}
+#Fbicon, #Bhicon, #Whicon{
+	width: 15%;
+	padding-top: 3%;
+	padding-left: 2%;
+}
+
+#footerpa{
+	font-size: 10px;
+}
+}
+@media(min-width: 768px) and (max-width:991px){
+#LOGO{
+	width: 20%;
+	margin-top: 8%;
+	margin-bottom: 2%;
+}
+
+#Title{
+	font-weight: 400;
+	margin-top: 2%;
+	margin-bottom: 1%;
+	text-align:center;
+	
+}
+button{
+	margin-left: 1%;
+	margin-right: 1%;
+	background-color: #612768;
+	color:white;
+	border-radius: 15px;
+	border-bottom-width: thin;
+	cursor: pointer;
+	border: none;
+	padding: 5px 15px;
+}
+
+button:hover {
+	width: auto;
+	margin-left: 1%;
+	margin-right: 1%;
+	background-color: #993EA4;
+	color:white;
+	border-radius: 15px;
+	border-bottom-width: thin;
+	cursor: pointer;
+	border: none;
+	padding: 5px 15px;
+}
+
+button:active {
+	margin-left: 1%;
+	margin-right: 1%;
+	background-color: #FCE2FF;
+	color:black;
+	border-radius: 15px;
+	border-bottom-width: thin;
+	cursor: pointer;
+	border: #E400FF;
+	padding: 5px 15px;
+}
+
+#spacebaar{
+	text-align: center;
+	width: 40%;
+	padding-top: 2%;
+	border-radius: 30%;
+}
+#Fbicon, #Bhicon, #Whicon{
+	width: 10%;
+	padding-top: 3%;
+	padding-left: 2%;
+}
+
+#footerpa{
+	font-size: 10px;
+}
+}
+
+@media(min-width: 992px) and (max-width:1279px){
+#LOGO{
+	width: 20%;
+	margin-top: 8%;
+	margin-bottom: 2%;
+}
+
+#Title{
+	font-weight: 400;
+	margin-top: 2%;
+	margin-bottom: 1%;
+	text-align:center;
+	
+}
+button{
+	margin-left: 1%;
+	margin-right: 1%;
+	background-color: #612768;
+	color:white;
+	border-radius: 15px;
+	border-bottom-width: thin;
+	cursor: pointer;
+	border: none;
+	padding: 5px 15px;
+}
+
+button:hover {
+	width: auto;
+	margin-left: 1%;
+	margin-right: 1%;
+	background-color: #993EA4;
+	color:white;
+	border-radius: 15px;
+	border-bottom-width: thin;
+	cursor: pointer;
+	border: none;
+	padding: 5px 15px;
+}
+
+button:active {
+	margin-left: 1%;
+	margin-right: 1%;
+	background-color: #FCE2FF;
+	color:black;
+	border-radius: 15px;
+	border-bottom-width: thin;
+	cursor: pointer;
+	border: #E400FF;
+	padding: 5px 15px;
+}
+
+#spacebaar{
+	text-align: center;
+	width: 30%;
+	padding-top: 2%;
+	border-radius: 30%;
+}
+#Fbicon, #Bhicon, #Whicon{
+	width: 10%;
+	padding-top: 3%;
+	padding-left: 2%;
+}
+
+#footerpa{
+	font-size: 10px;
+}	
+}
+@media(min-width: 1280px) and (max-width:1920px){
+#LOGO{
+	width: 20%;
+	margin-top: 8%;
+	margin-bottom: 2%;
+}
+
+	h1{
+		font-size: 3.5em;
+	}
+	
+#Title{
+	font-weight: 400;
+	margin-top: 2%;
+	margin-bottom: 1%;
+	text-align:center;
+	
+}
+button{
+	margin-left: 1%;
+	margin-right: 1%;
+	background-color: #612768;
+	color:white;
+	border-radius: 15px;
+	border-bottom-width: thin;
+	cursor: pointer;
+	border: none;
+	padding: 5px 15px;
+}
+
+button:hover {
+	width: auto;
+	margin-left: 1%;
+	margin-right: 1%;
+	background-color: #993EA4;
+	color:white;
+	border-radius: 15px;
+	border-bottom-width: thin;
+	cursor: pointer;
+	border: none;
+	padding: 5px 15px;
+}
+
+button:active {
+	margin-left: 1%;
+	margin-right: 1%;
+	background-color: #FCE2FF;
+	color:black;
+	border-radius: 15px;
+	border-bottom-width: thin;
+	cursor: pointer;
+	border: #E400FF;
+	padding: 5px 15px;
+}
+
+#spacebaar{
+	text-align: center;
+	width: 30%;
+	padding-top: 2%;
+	border-radius: 30%;
+}
+#Fbicon, #Bhicon, #Whicon{
+	width: 8%;
+	padding-top: 3%;
+	padding-left: 2%;
+}
+
+#footerpa{
+	font-size: 10px;
+}	
+}
